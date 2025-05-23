@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int main(agrc)
+int main(ag)
